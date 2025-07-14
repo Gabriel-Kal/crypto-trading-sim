@@ -1,0 +1,8 @@
+For the application to run as intended it needs the 
+following files to be in the same folder:
+
+- names.txt
+- trade.png
+- styles.css
+- index.html
+- app.js
